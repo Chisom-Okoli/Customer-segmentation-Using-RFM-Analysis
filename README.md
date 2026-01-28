@@ -136,7 +136,10 @@ These visuals highlight **value concentration and engagement patterns**.
 ## Visualizations
 
 ### Customer Distribution by Segment
-![Customers by Segment](visuals/customers_by_segment.png)
+![Customers by Segment](![Revenue per Segment](https://raw.githubusercontent.com/Chisom-Okoli/Customer-segmentation-Using-RFM-Analysis/main/Customer%20per%20segment.png)
+)
 
 ### Revenue Contribution by Segment
-![Revenue by Segment](visuals/revenue_by_segment.png)
+![Revenue by Segment](![Customer per Segment](![Customer per Segment](![Revenue per Segment](https://raw.githubusercontent.com/Chisom-Okoli/Customer-segmentation-Using-RFM-Analysis/main/Revenue%20per%20segment.png)
+
+
