@@ -113,9 +113,9 @@ These visuals highlight **value concentration and engagement patterns**.
 ---
 
 ## Key Insights
-- **High-value customers** represent a smaller share of customers but generate a disproportionately large share of revenue
-- **Medium-value customers** show strong potential for upselling and growth
-- **Low-value customers** have low engagement and require cost-efficient engagement strategies
+- **High-value customers** represent 18% of total customers but generate 62% of total revenue
+- **Medium-value customers** represent 35% of customers and contribute 28% of revenue, show strong potential for upselling and growth
+- **Low-value customers** represent 47% of customers but only 10% of revenue,have low engagement and require cost-efficient engagement strategies
 
 ---
 
@@ -127,6 +127,13 @@ These visuals highlight **value concentration and engagement patterns**.
 | Low Value | Automated engagement or reactivation campaigns |
 
 ---
+## Business Impact
+
+If implemented, this segmentation strategy could:
+
+- Increase retention among high-value customers
+- Improve marketing ROI through targeted campaigns
+- Reduce acquisition costs by focusing on profitable segments
 
 ## Tools Used
 - **Excel** (Pivot Tables, formulas, charts)
